@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Rewant Choudhary</h1>
+<h1 align="center">Hello👋, I'm Rewant Choudhary</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 - 🔭 I’m currently working on **FullStack Development**
